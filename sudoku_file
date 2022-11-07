@@ -2,7 +2,16 @@ Heyyyy , I created this sudoku file and edited this on giut hub ,
 I remind you edited this on git hub not on my local computer,. mind this
 Now , how to get changes done in my local computer or local reposoitory same as my remote repo(git hub
 )
+ans:simply type the command git pull origin master , then all the changes done on git gets updated on your local repo.
 
 
 Added this line from my local computer and now , how to get updated in my remote repo?
-ans : I don't know , i will try and if everything goes well i write the answer in to this file form git hub, stay tuned.
+ans : I don't know , i will try and if everything goes well i write the answer in to this file from git hub, stay tuned.
+
+
+heyy am here(remote repo):
+so whenever you edit something form local repo or local computer you have to 
+1)add file 
+2)commit file 
+3)push file 
+then only it gets updated on remote repo 
